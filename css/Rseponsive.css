@@ -1,0 +1,30 @@
+@media screen and (max-width: 450px) {
+  .about-member {
+    display: inline-block;
+  }
+  .member-item {
+    /* width: 50px; */
+    margin-left: 20px;
+    margin-bottom: 50px;
+  }
+  .member-p {
+      
+  }
+  .slider-p {
+      font-size: 12px;
+  }
+  .img-slider {
+      width: 100%;
+      object-fit: cover;
+  }
+  .list-items {
+    font-size: 8px;
+    transform: translate(40%,40%);
+    margin-bottom: 40px;
+    margin-left: -20px;
+  }
+  .item-link {
+      font-size:12px;
+        margin-left: 80px;
+  }
+}
